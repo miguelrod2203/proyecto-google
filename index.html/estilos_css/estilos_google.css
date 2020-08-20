@@ -1,0 +1,34 @@
+header nav .navbar-default {
+	background: #ffffff;
+	border: none;
+}
+
+section img {
+	margin-top: 150px;
+	margin-bottom: 20px;
+}
+.contenedor-botones {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+form {
+	margin-left: 20%;
+	width: 60%;
+}
+.input-group-addon {
+	background: #ffffff;
+}
+
+footer {
+	background: #f1ebeb;
+	margin-top: 180px;
+}
+footer .footer-chile {
+	border:  1px solid #e4e4e4;
+}
+footer a {
+	color: #2c2727; 
+	font-size: 11px;
+	padding-left: 10px;
+}
